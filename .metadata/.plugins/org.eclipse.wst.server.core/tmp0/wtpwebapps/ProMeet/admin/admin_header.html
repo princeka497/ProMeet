@@ -1,0 +1,134 @@
+<nav class="navbar navbar-expand-lg fixed-top custom-navbar">
+    <div class="container-fluid">
+        <h2 class="navbar-brand">
+            <i class="fas fa-user-circle logo-icon"></i> Admin Portal
+        </h2>
+
+        <button   class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        <!-- Offcanvas Menu -->
+        <div class="offcanvas offcanvas-end custom-offcanvas" tabindex="-1" id="offcanvasDarkNavbar"
+            aria-labelledby="offcanvasDarkNavbarLabel">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title"><b>Hello Admin</b></h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"
+                    aria-label="Close"></button>
+            </div>
+
+            <div class="offcanvas-body">
+                <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/ProMeet/admin/adminhome.jsp"><i class="fas fa-home"></i> Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/ProMeet/admin/all_contact.jsp"><i class="fas fa-portrait"></i>
+                            Contact List</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/ProMeet/admin/all_feedback.jsp"><i class="far fa-smile"></i>
+                            Feedback List</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/ProMeet/admin/all_user.jsp"><i class="fas fa-user"></i> User List</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/ProMeet/admin/all_expert.jsp"><i class="fas fa-user-tie"></i>
+                            Expert List</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link logout-link" href="/ProMeet/AdminLogout"><i class="fa fa-sign-out"></i>
+                            Logout</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<!-- 🔹 Custom CSS for Navbar -->
+<style>
+    /* 🔥 Stylish Navbar */
+    .custom-navbar {
+        background: linear-gradient(to right, #1f1c2c, #535a7b);
+        padding: 10px 20px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    /* 🏷️ Brand Logo & Name */
+    .navbar-brand {
+        color: white;
+        font-size: 24px;
+        font-weight: bold;
+        text-transform: uppercase;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .logo-icon {
+        color: red;
+        font-size: 30px;
+    }
+
+    /* 🎨 Offcanvas (Side Menu) */
+    .custom-offcanvas {
+        background: #24252a;
+        color: white;
+        width: 250px;
+    }
+
+    .offcanvas-header {
+        background: #16171b;
+        color: white;
+        padding: 15px;
+    }
+
+    /* 🔗 Navbar Links */
+    .nav-link {
+        color: white;
+        font-size: 18px;
+        padding: 12px 15px;
+        transition: all 0.3s ease-in-out;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .nav-link:hover {
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 8px;
+        padding-left: 20px;
+    }
+
+    /* 🚪 Logout Link */
+    .logout-link {
+        color: red;
+        font-weight: bold;
+    }
+
+    .logout-link:hover {
+        background: rgba(255, 0, 0, 0.2);
+    }
+
+    /* 📱 Navbar Toggle Button */
+    .custom-toggler {
+        border: none;
+        background: transparent;
+    }
+
+    .custom-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* 🎭 Responsive */
+    @media (max-width: 768px) {
+        .navbar-brand {
+            font-size: 20px;
+        }
+
+        .logo-icon {
+            font-size: 25px;
+        }
+    }
+</style>

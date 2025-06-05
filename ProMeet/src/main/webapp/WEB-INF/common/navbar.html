@@ -1,0 +1,90 @@
+<style>
+
+
+
+
+.nav-link:hover{
+color:red;
+
+}
+
+
+
+.nav-link,.nav-item dropdown{
+
+color:white;
+font-size:1rem;
+font-family: sans-serif;
+
+
+  
+} 
+
+.dropdown-item{
+
+color:red;
+font-size:1rem;
+font-family: sans-serif;
+  
+
+
+
+}
+
+
+</style>
+
+
+
+<nav class="navbar navbar-expand-lg" style="background-color:black; " >
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><img src="/ProMeet/images/download.jpg" alt="" width="30" height="24" class="rounded-circle">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent" >
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0" >
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/ProMeet/jsp/index.jsp">
+          
+          <i class="fas fa-home" style="color:white"> </i></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/ProMeet/jsp/aboutus.jsp">AboutUs</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/ProMeet/jsp/contact_us.jsp">ContactUs</a>
+        </li>
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Registration
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="/ProMeet/user/user_registration.jsp">User</a></li>
+            <li><a class="dropdown-item" href="/ProMeet/expert/expert.jsp">Expert</a></li>
+            
+          </ul>
+        </li>
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Login
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="/ProMeet/user/user_login.jsp">User</a></li>
+            <li><a class="dropdown-item" href="/ProMeet/expert/expert_login.jsp">Expert</a></li>
+            
+          </ul>
+        </li>
+        
+        
+      </ul>
+      <!-- <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form> -->
+    </div>
+  </div>
+</nav>

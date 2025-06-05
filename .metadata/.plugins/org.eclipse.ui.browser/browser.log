@@ -1,0 +1,1185 @@
+
+Mar 03, 2025 24:32:45.13 NEW SESSION
+Mar 03, 2025 24:32:45.67 [4056:15088:0303/003245.032:ERROR:native_message_process_host.cc(349)] Error when writing to Native Messaging host: -101
+Mar 03, 2025 24:32:50.15 [4056:15088:0303/003250.152:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 03, 2025 24:32:56.39 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 03, 2025 24:32:56.42 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 03, 2025 24:33:12.86 [4056:15088:0303/003312.865:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 03, 2025 24:33:56.34 [4056:15088:0303/003356.349:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 03, 2025 24:35:27.72 [4056:15088:0303/003527.726:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 03, 2025 24:38:59.11 [4056:15088:0303/003859.113:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 03, 2025 14:16:06.25 NEW SESSION
+Mar 03, 2025 14:16:06.29 [8592:5968:0303/141606.207:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 03, 2025 14:16:12.16 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 03, 2025 14:16:13.53 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 03, 2025 14:16:35.89 [8592:5968:0303/141635.890:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 03, 2025 14:17:35.99 [8592:5968:0303/141735.995:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 03, 2025 14:18:57.90 [8592:5968:0303/141857.901:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 03, 2025 14:22:53.00 [8592:5968:0303/142253.003:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 03, 2025 14:26:39.88 [8592:5968:0303/142639.882:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 03, 2025 14:29:06.73 [8592:5968:0303/142906.737:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 03, 2025 14:56:34.75 [8592:5968:0303/145634.753:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 03, 2025 14:56:39.05 [8592:11588:0303/145639.051:ERROR:device_event_log_impl.cc(199)] [14:56:39.050] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 03, 2025 14:59:13.18 [8592:5968:0303/145913.183:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 03, 2025 19:21:46.42 [8592:11588:0303/192146.424:ERROR:device_event_log_impl.cc(199)] [19:21:46.423] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 03, 2025 22:53:34.13 [8592:8812:0303/225334.098:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 03, 2025 22:54:07.01 [8592:11588:0303/225407.018:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 03, 2025 22:54:08.02 [8592:11588:0303/225408.025:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 03, 2025 22:54:08.05 [8592:11588:0303/225408.056:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 03, 2025 22:54:08.08 [8592:11588:0303/225408.087:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 03, 2025 22:54:08.10 [8592:11588:0303/225408.103:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 03, 2025 22:54:08.13 [8592:11588:0303/225408.134:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 03, 2025 22:54:08.46 [8592:11588:0303/225408.461:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 03, 2025 22:54:08.50 [8592:11588:0303/225408.508:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+
+Mar 06, 2025 14:13:40.79 NEW SESSION
+Mar 06, 2025 14:13:41.26 [5724:456:0306/141340.569:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 06, 2025 14:13:43.65 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 06, 2025 14:13:43.67 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 06, 2025 14:14:05.92 [5724:5504:0306/141405.925:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 06, 2025 14:14:06.45 [5724:5504:0306/141406.449:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 06, 2025 14:14:06.51 [5724:5504:0306/141406.511:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 06, 2025 14:14:07.07 [5724:456:0306/141407.074:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 06, 2025 14:14:07.28 [5724:5504:0306/141407.287:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 06, 2025 14:14:07.33 [5724:5504:0306/141407.302:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 06, 2025 14:14:07.49 [5724:5504:0306/141407.491:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 06, 2025 14:14:07.83 [5724:5504:0306/141407.832:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 06, 2025 14:14:07.98 [5724:5504:0306/141407.987:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 06, 2025 14:15:06.60 [5724:456:0306/141506.601:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 06, 2025 14:16:57.20 [5724:456:0306/141657.199:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 06, 2025 14:20:26.73 [5724:456:0306/142026.730:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 06, 2025 14:26:55.33 [5724:456:0306/142655.329:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 06, 2025 14:28:34.97 [5724:5504:0306/142834.974:ERROR:CONSOLE(1)] "Uncaught (in promise) SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@c0343fb2cd38e04fcb4190e8615244f80947f083/&targetType=tab&can_dock=true&panel=elements (1)
+Mar 06, 2025 14:41:02.53 [5724:456:0306/144102.531:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 14:41:29.86 [5724:456:0306/144129.867:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 14:42:25.76 [5724:456:0306/144225.763:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 14:43:56.97 [5724:456:0306/144356.970:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 14:47:21.50 [5724:456:0306/144721.508:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 06, 2025 14:47:26.45 [5724:5504:0306/144726.456:ERROR:device_event_log_impl.cc(199)] [14:47:26.451] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 06, 2025 14:47:45.70 [5724:456:0306/144745.705:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 06, 2025 14:54:50.23 [5724:456:0306/145450.237:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 15:05:38.47 [5724:456:0306/150538.476:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 06, 2025 15:05:38.84 [5724:456:0306/150538.543:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 06, 2025 15:05:43.15 [5724:5504:0306/150543.158:ERROR:device_event_log_impl.cc(199)] [15:05:43.158] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 06, 2025 15:59:00.11 [5724:456:0306/155859.998:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 06, 2025 15:59:00.67 [5724:456:0306/155900.032:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 06, 2025 15:59:04.53 [5724:5504:0306/155904.537:ERROR:device_event_log_impl.cc(199)] [15:59:04.537] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 07, 2025 16:21:24.41 NEW SESSION
+Mar 07, 2025 16:21:25.50 [8248:10368:0307/162124.291:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 07, 2025 16:21:26.70 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 07, 2025 16:21:26.84 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 07, 2025 16:21:46.51 [8248:10368:0307/162146.516:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 07, 2025 16:22:31.42 [8248:10368:0307/162231.422:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 07, 2025 16:24:19.60 [8248:10368:0307/162419.604:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 07, 2025 16:27:14.42 [8248:10368:0307/162714.420:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 07, 2025 19:27:20.90 [8248:9516:0307/192720.901:ERROR:device_event_log_impl.cc(199)] [19:27:20.858] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 07, 2025 19:27:26.73 [8248:10368:0307/192726.731:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 07, 2025 19:27:26.85 [8248:10368:0307/192726.856:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 07, 2025 21:23:52.01 [8248:10368:0307/212351.996:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 07, 2025 21:23:52.28 [8248:10368:0307/212352.274:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 07, 2025 21:23:52.30 [8248:6376:0307/212352.291:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Mar 07, 2025 21:25:07.77 [8248:9516:0307/212507.758:ERROR:device_event_log_impl.cc(199)] [21:25:07.758] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 07, 2025 21:31:17.98 [8248:10368:0307/213117.983:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 07, 2025 21:46:30.91 [8248:10368:0307/214630.886:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 08, 2025 24:46:37.92 [8248:9516:0308/004637.373:ERROR:device_event_log_impl.cc(199)] [00:46:37.373] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 08, 2025 14:11:37.22 [8248:8368:0308/141137.225:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 08, 2025 14:12:13.44 [8248:10368:0308/141213.447:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 14:12:13.45 [8248:10368:0308/141213.449:ERROR:checkin_request.cc(242)] Check-in request got net error: -106
+Mar 08, 2025 14:12:35.37 [8248:10368:0308/141235.368:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 14:12:41.67 [8248:10368:0308/141241.676:ERROR:checkin_request.cc(242)] Check-in request got net error: -106
+Mar 08, 2025 14:12:52.24 [8248:11616:0308/141252.240:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 08, 2025 14:13:25.03 [8248:10368:0308/141325.028:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 14:13:39.16 [8248:10368:0308/141339.159:ERROR:checkin_request.cc(242)] Check-in request got net error: -106
+Mar 08, 2025 14:15:03.65 [8248:10368:0308/141503.658:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 14:15:08.07 [8248:10368:0308/141508.072:ERROR:checkin_request.cc(242)] Check-in request got net error: -106
+Mar 08, 2025 14:17:33.62 [8248:11616:0308/141733.610:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 08, 2025 14:17:51.34 [8248:10368:0308/141751.340:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 14:18:44.44 [8248:10368:0308/141837.636:ERROR:checkin_request.cc(242)] Check-in request got net error: -106
+Mar 08, 2025 14:18:48.62 [8248:11616:0308/141848.624:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 08, 2025 14:20:41.14 [8248:11616:0308/142041.142:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 08, 2025 14:23:29.90 [8248:11616:0308/142329.905:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 08, 2025 14:23:58.44 [8248:10368:0308/142358.442:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 14:25:54.71 [8248:10368:0308/142554.709:ERROR:checkin_request.cc(242)] Check-in request got net error: -106
+Mar 08, 2025 14:30:31.79 [8248:11616:0308/143031.790:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 08, 2025 14:35:54.72 [8248:10368:0308/143554.728:ERROR:checkin_request.cc(242)] Check-in request got net error: -106
+Mar 08, 2025 14:40:31.80 [8248:11616:0308/144031.802:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 08, 2025 14:41:57.37 [8248:9516:0308/144157.373:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 08, 2025 14:41:57.65 [8248:9516:0308/144157.652:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 08, 2025 14:41:57.85 [8248:9516:0308/144157.854:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 08, 2025 14:41:58.14 [8248:9516:0308/144158.148:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 08, 2025 14:41:58.28 [8248:9516:0308/144158.286:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 08, 2025 14:41:58.31 [8248:9516:0308/144158.318:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 08, 2025 14:41:58.61 [8248:9516:0308/144158.618:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 08, 2025 14:41:59.04 [8248:9516:0308/144159.042:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 08, 2025 14:45:54.74 [8248:10368:0308/144554.744:ERROR:checkin_request.cc(242)] Check-in request got net error: -106
+Mar 08, 2025 14:55:54.75 [8248:10368:0308/145554.750:ERROR:checkin_request.cc(242)] Check-in request got net error: -106
+Mar 08, 2025 15:05:54.76 [8248:10368:0308/150554.768:ERROR:checkin_request.cc(242)] Check-in request got net error: -106
+Mar 08, 2025 15:15:54.77 [8248:10368:0308/151554.771:ERROR:checkin_request.cc(242)] Check-in request got net error: -106
+Mar 08, 2025 15:17:40.20 [13900:9484:0308/151740.208:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:17:40.21 [13900:9484:0308/151740.209:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:17:40.21 [13900:9484:0308/151740.209:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:17:40.21 [13900:9484:0308/151740.209:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:17:42.42 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 08, 2025 15:17:42.46 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 08, 2025 15:18:01.05 [13900:9484:0308/151801.057:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:18:03.66 [13900:9484:0308/151803.667:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:18:05.62 [13900:9484:0308/151805.620:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:18:09.83 [13900:9484:0308/151809.838:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:18:44.67 [13900:9484:0308/151844.673:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:18:54.05 [13900:9484:0308/151854.054:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:18:59.86 [13900:9484:0308/151859.868:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:19:02.62 [13900:9484:0308/151902.629:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:20:08.66 [13900:9484:0308/152008.659:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:20:28.95 [13900:9484:0308/152028.949:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:20:35.05 [13900:9484:0308/152035.052:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:20:44.90 [13900:9484:0308/152044.907:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:23:18.41 [13900:9484:0308/152318.413:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:23:23.99 [13900:9484:0308/152323.992:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:23:33.05 [13900:9484:0308/152333.056:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:24:07.24 [13900:9484:0308/152407.243:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:29:23.25 [13900:9484:0308/152923.257:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:29:23.26 [13900:9484:0308/152923.262:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:29:45.03 [13900:9484:0308/152945.037:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:30:30.87 [13900:9484:0308/153030.878:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:30:33.96 [13900:9484:0308/153033.968:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:30:40.50 [13900:9484:0308/153040.503:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:31:28.78 [13900:9484:0308/153128.785:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:31:59.55 [13900:9484:0308/153159.552:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:35:42.68 [13900:9484:0308/153542.687:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:41:51.86 [13900:9484:0308/154151.860:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:41:51.86 [13900:12916:0308/154151.861:ERROR:sharing_service.cc(291)] Device registration failed with transient error
+Mar 08, 2025 15:46:24.81 [13900:9484:0308/154624.809:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:46:54.23 [13900:9484:0308/154654.237:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:47:35.47 [13900:9484:0308/154735.477:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:49:20.39 [13900:9484:0308/154920.396:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 15:52:59.47 [13900:9484:0308/155259.474:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 08, 2025 16:01:23.00 [13900:9484:0308/160123.002:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 08, 2025 16:20:05.67 [13900:9484:0308/162005.611:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 08, 2025 16:20:06.11 [13900:9484:0308/162005.680:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2025 16:20:10.42 [13900:12916:0308/162010.428:ERROR:device_event_log_impl.cc(199)] [16:20:10.428] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 09, 2025 24:45:23.53 NEW SESSION
+Mar 09, 2025 24:45:23.59 [18860:9292:0309/004523.525:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 09, 2025 24:45:25.14 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 09, 2025 24:45:25.19 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 09, 2025 24:45:47.40 [18860:9292:0309/004547.405:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 09, 2025 24:46:34.62 [18860:9292:0309/004634.623:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 09, 2025 24:48:07.08 [18860:9292:0309/004807.085:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 09, 2025 24:52:03.45 [18860:9292:0309/005203.458:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+
+Mar 09, 2025 20:34:17.10 NEW SESSION
+Mar 09, 2025 20:34:17.24 [7136:8228:0309/203417.098:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 09, 2025 20:34:22.89 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 09, 2025 20:34:23.07 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 09, 2025 20:34:38.93 [7136:8228:0309/203438.929:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 09, 2025 20:35:35.24 [7136:8228:0309/203535.247:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 09, 2025 20:37:20.76 [7136:8228:0309/203720.767:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 09, 2025 20:40:32.60 [7136:8228:0309/204032.602:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 09, 2025 20:41:02.36 [7136:9480:0309/204102.363:ERROR:new_tab_page_handler.cc(1306)] NewTabPage loaded into a non-browser-tab context
+Mar 09, 2025 20:46:34.46 [7136:8228:0309/204634.460:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 09, 2025 21:28:05.14 [7136:8228:0309/212805.071:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 10, 2025 24:06:22.76 [7136:9480:0310/000622.509:ERROR:device_event_log_impl.cc(199)] [00:06:19.594] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 10, 2025 01:15:55.08 [7300:9892:0310/011555.084:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 10, 2025 01:15:57.24 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 10, 2025 01:15:57.26 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 10, 2025 01:16:24.81 [7300:9892:0310/011624.814:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 10, 2025 01:17:21.74 [7300:9892:0310/011721.744:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 10, 2025 01:19:00.54 [7300:9892:0310/011900.540:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 10, 2025 01:22:03.88 [7300:9892:0310/012203.882:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 10, 2025 01:27:42.63 [7300:9892:0310/012742.634:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 10, 2025 14:28:33.92 NEW SESSION
+Mar 10, 2025 14:28:34.07 [16648:10200:0310/142833.817:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 10, 2025 14:28:36.37 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 10, 2025 14:28:36.47 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 10, 2025 14:29:02.01 [16648:10200:0310/142902.010:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 10, 2025 14:29:48.73 [16648:10200:0310/142948.739:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 10, 2025 14:31:14.79 [16648:10200:0310/143114.793:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 10, 2025 14:34:42.74 [16648:10200:0310/143442.743:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 10, 2025 14:42:33.58 [16648:10200:0310/144233.580:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+
+Mar 11, 2025 15:23:44.52 NEW SESSION
+Mar 11, 2025 15:23:44.57 [4556:6216:0311/152344.484:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 11, 2025 15:23:49.53 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2025 15:23:49.59 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 11, 2025 15:24:04.98 [4556:6216:0311/152404.980:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 11, 2025 15:24:15.20 [4556:11348:0311/152415.206:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 11, 2025 15:24:16.31 [4556:11348:0311/152416.318:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 11, 2025 15:24:16.92 [4556:11348:0311/152416.922:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 11, 2025 15:24:17.23 [4556:11348:0311/152417.231:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 11, 2025 15:24:17.29 [4556:11348:0311/152417.293:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 11, 2025 15:24:17.34 [4556:11348:0311/152417.340:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 11, 2025 15:24:17.40 [4556:11348:0311/152417.403:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 11, 2025 15:24:17.54 [4556:11348:0311/152417.545:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 11, 2025 15:25:04.41 [4556:6216:0311/152504.413:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 11, 2025 15:26:41.81 [4556:6216:0311/152641.813:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 11, 2025 15:29:27.73 [4556:6216:0311/152927.738:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 11, 2025 15:36:30.12 [4556:6216:0311/153630.124:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 11, 2025 19:13:36.92 [4556:11348:0311/191336.921:ERROR:device_event_log_impl.cc(199)] [19:13:35.862] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 12, 2025 03:34:34.25 [4556:11348:0312/033432.884:ERROR:device_event_log_impl.cc(199)] [03:34:32.884] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 12, 2025 18:13:42.87 [4556:6216:0312/181342.875:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 18:14:05.74 [4556:6216:0312/181405.747:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 18:14:52.18 [4556:6216:0312/181452.187:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 18:16:35.61 [4556:6216:0312/181635.613:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 18:20:20.26 [4556:6216:0312/182020.264:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 18:26:20.25 [4556:6216:0312/182620.253:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 19:12:03.07 [4556:6216:0312/191159.159:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 12, 2025 19:12:15.34 [4556:6216:0312/191201.821:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2025 21:38:57.28 [4556:11348:0312/213857.028:ERROR:device_event_log_impl.cc(199)] [21:38:56.816] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 12, 2025 22:26:59.39 NEW SESSION
+Mar 12, 2025 22:26:59.72 [2060:11836:0312/222659.346:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 22:27:00.31 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2025 22:27:00.38 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 12, 2025 22:27:29.28 [2060:11836:0312/222729.287:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 22:28:23.88 [2060:11836:0312/222823.884:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 22:29:51.42 [2060:11836:0312/222951.422:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 22:33:20.51 [2060:11836:0312/223320.516:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 22:40:30.96 [2060:11836:0312/224030.967:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 22:58:26.91 [11484:6504:0312/225826.917:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 22:58:27.64 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2025 22:58:27.73 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 12, 2025 22:58:51.43 [11484:6504:0312/225851.438:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 22:59:41.70 [11484:6504:0312/225941.699:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 23:01:13.82 [11484:6504:0312/230113.819:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 23:04:56.81 [11484:6504:0312/230456.819:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 23:11:24.70 [11484:6504:0312/231124.707:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 13, 2025 24:47:39.82 [11484:6504:0313/004739.198:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 13, 2025 03:47:54.40 [11484:5016:0313/034754.402:ERROR:device_event_log_impl.cc(202)] [03:47:54.402] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 13, 2025 10:35:08.70 [11484:6504:0313/103508.705:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 13, 2025 10:35:13.20 [11484:11164:0313/103513.141:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 13, 2025 10:35:14.06 [11484:6504:0313/103514.063:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2025 10:35:56.85 [11484:6504:0313/103556.844:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 13, 2025 10:36:24.09 [11484:6504:0313/103624.099:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 13, 2025 10:37:16.93 [11484:6504:0313/103716.934:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 13, 2025 10:37:51.03 [11484:3076:0313/103751.036:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 13, 2025 10:38:36.05 [11484:3076:0313/103836.058:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 13, 2025 10:39:16.35 [11484:6504:0313/103916.350:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 13, 2025 10:40:28.57 [11484:3076:0313/104028.576:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 13, 2025 10:42:46.23 [11484:6504:0313/104246.229:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 13, 2025 10:45:23.99 [11484:5016:0313/104523.998:ERROR:new_tab_page_handler.cc(1341)] NewTabPage loaded into a non-browser-tab context
+Mar 13, 2025 10:49:07.27 [11484:6504:0313/104907.271:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 13, 2025 10:52:25.23 [11484:5016:0313/105225.238:ERROR:device_event_log_impl.cc(202)] [10:52:25.238] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 13, 2025 11:05:16.35 [11484:5016:0313/110516.356:ERROR:device_event_log_impl.cc(202)] [11:05:16.356] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 13, 2025 12:54:51.51 NEW SESSION
+Mar 13, 2025 12:54:51.75 [12124:2184:0313/125451.379:ERROR:native_message_process_host.cc(355)] Error when writing to Native Messaging host: -101
+Mar 13, 2025 12:54:56.04 [12124:2184:0313/125456.041:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 13, 2025 12:54:56.14 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 13, 2025 12:54:56.21 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 13, 2025 12:55:23.84 [12124:2184:0313/125523.844:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 13, 2025 12:56:07.28 [12124:2184:0313/125607.289:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 13, 2025 12:57:35.12 [12124:2184:0313/125735.127:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 13, 2025 13:00:37.23 [12124:2184:0313/130037.232:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 13, 2025 13:08:37.10 [12124:2184:0313/130837.105:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 13, 2025 13:16:48.18 [10204:1600:0313/131648.187:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 13, 2025 13:16:49.32 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 13, 2025 13:16:49.36 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 13, 2025 13:17:16.12 [10204:1600:0313/131716.123:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 13, 2025 13:18:05.92 [10204:1600:0313/131805.925:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 13, 2025 13:19:58.12 [10204:1600:0313/131958.123:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 13, 2025 13:23:54.02 [10204:1600:0313/132354.025:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 15, 2025 22:09:32.22 NEW SESSION
+Mar 15, 2025 22:09:32.76 [11952:9988:0315/220931.692:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:09:32.77 [11952:9988:0315/220931.696:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:09:41.48 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 15, 2025 22:09:41.72 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 15, 2025 22:09:47.73 [11952:10796:0315/220947.733:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 15, 2025 22:09:48.53 [11952:10796:0315/220948.538:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 15, 2025 22:09:48.63 [11952:10796:0315/220948.632:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 15, 2025 22:09:48.83 [11952:10796:0315/220948.834:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 15, 2025 22:09:49.23 [11952:10796:0315/220949.238:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 15, 2025 22:09:49.26 [11952:10796:0315/220949.269:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 15, 2025 22:09:49.57 [11952:10796:0315/220949.578:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 15, 2025 22:09:49.65 [11952:10796:0315/220949.655:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 15, 2025 22:09:53.49 [11952:9988:0315/220953.493:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:09:55.85 [11952:9988:0315/220955.852:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:10:47.88 [11952:9988:0315/221047.880:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:10:48.74 [11952:9988:0315/221048.748:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:12:35.52 [11952:9988:0315/221235.520:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:12:36.72 [11952:9988:0315/221236.728:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:15:56.65 [11952:9988:0315/221556.656:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:16:07.90 [11952:9988:0315/221607.902:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:23:29.93 [11952:9988:0315/222329.514:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:23:49.35 [11952:9988:0315/222349.356:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:23:49.37 [11952:9988:0315/222349.369:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:24:10.28 [11952:9988:0315/222410.284:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:25:03.60 [11952:9988:0315/222503.604:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:26:25.97 [11952:9988:0315/222625.973:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:30:08.54 [11952:9988:0315/223008.548:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:36:23.98 [11952:9988:0315/223623.988:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 15, 2025 22:36:24.19 [11952:10796:0315/223624.017:ERROR:sharing_service.cc(291)] Device registration failed with transient error
+Mar 15, 2025 22:37:39.62 [11952:10796:0315/223739.623:ERROR:device_event_log_impl.cc(202)] [22:37:39.624] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 17, 2025 15:41:55.78 NEW SESSION
+Mar 17, 2025 15:41:55.82 [3876:10392:0317/154155.675:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 17, 2025 15:41:56.57 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 17, 2025 15:41:56.62 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 17, 2025 15:42:14.59 [3876:10392:0317/154214.595:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 17, 2025 15:42:23.94 [3876:10392:0317/154223.941:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 17, 2025 15:43:11.15 [3876:10392:0317/154311.155:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 17, 2025 15:44:58.10 [3876:10392:0317/154458.109:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 17, 2025 15:47:48.95 [3876:10392:0317/154748.952:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 17, 2025 15:53:29.19 [3876:10392:0317/155329.191:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 17, 2025 16:01:39.81 [3876:10392:0317/160139.812:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Mar 17, 2025 21:57:33.56 NEW SESSION
+Mar 17, 2025 21:57:33.67 [8252:11760:0317/215733.563:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 17, 2025 21:57:35.07 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 17, 2025 21:57:35.26 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 17, 2025 21:58:01.84 [8252:11760:0317/215801.841:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 17, 2025 21:58:59.53 [8252:11760:0317/215859.539:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 17, 2025 22:00:45.49 [8252:11760:0317/220045.492:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 17, 2025 22:01:35.34 [8252:11760:0317/220135.346:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 17, 2025 23:52:04.88 [8252:7064:0317/235204.883:ERROR:device_event_log_impl.cc(202)] [23:52:04.507] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 17, 2025 23:52:07.60 [8252:11760:0317/235207.608:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 17, 2025 23:57:59.34 [8252:11760:0317/235759.339:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 24:13:06.17 [13648:15348:0318/001306.179:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 24:13:07.05 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2025 24:13:07.09 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 18, 2025 24:13:36.01 [13648:15348:0318/001336.010:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 24:14:33.40 [13648:15348:0318/001433.401:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 24:16:10.34 [13648:15348:0318/001610.343:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 24:19:42.02 [13648:15348:0318/001942.021:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 24:27:05.57 [13648:15348:0318/002705.345:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 18, 2025 14:12:44.15 NEW SESSION
+Mar 18, 2025 14:12:44.27 [3768:8872:0318/141244.125:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 14:12:46.04 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2025 14:12:46.53 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 18, 2025 14:13:12.01 [3768:8872:0318/141312.010:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 14:14:03.49 [3768:8872:0318/141403.491:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 14:15:48.17 [3768:8872:0318/141548.175:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 14:18:45.03 [3768:8872:0318/141845.031:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 14:25:46.67 [3768:8872:0318/142546.671:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 14:32:54.44 [3768:8872:0318/143254.437:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 18, 2025 14:32:54.79 [3768:8872:0318/143254.490:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2025 14:32:59.01 [3768:2784:0318/143259.018:ERROR:device_event_log_impl.cc(202)] [14:32:59.018] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 18, 2025 15:49:48.37 [3768:8872:0318/154948.371:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 18, 2025 15:49:48.73 [3768:8872:0318/154948.411:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2025 15:49:52.65 [3768:2784:0318/154952.653:ERROR:device_event_log_impl.cc(202)] [15:49:52.653] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 18, 2025 22:45:31.76 NEW SESSION
+Mar 18, 2025 22:45:31.85 [10120:13508:0318/224531.650:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 22:45:42.62 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2025 22:45:42.73 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 18, 2025 22:46:01.81 [10120:13508:0318/224601.814:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 22:46:50.37 [10120:13508:0318/224650.371:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 22:48:47.73 [10120:13508:0318/224847.736:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 18, 2025 22:52:08.13 [10120:13508:0318/225208.136:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 20, 2025 14:41:43.08 NEW SESSION
+Mar 20, 2025 14:41:43.15 [5696:2004:0320/144143.073:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 20, 2025 14:41:46.18 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 20, 2025 14:41:46.37 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 20, 2025 14:42:11.12 [5696:2004:0320/144211.125:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 20, 2025 14:43:01.14 [5696:2004:0320/144301.141:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 20, 2025 14:44:29.55 [5696:2004:0320/144429.552:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 20, 2025 14:47:39.03 [5696:2004:0320/144739.038:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 20, 2025 14:53:44.69 [5696:2004:0320/145344.690:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 20, 2025 15:14:22.05 [5696:2004:0320/151422.056:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 20, 2025 15:14:26.41 [5696:14304:0320/151426.418:ERROR:device_event_log_impl.cc(202)] [15:14:26.419] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 20, 2025 15:38:08.55 [5696:14304:0320/153808.558:ERROR:new_tab_page_handler.cc(1341)] NewTabPage loaded into a non-browser-tab context
+Mar 20, 2025 15:38:35.26 [9228:13484:0320/153835.267:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 20, 2025 15:38:36.29 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 20, 2025 15:38:36.31 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 20, 2025 15:39:02.64 [9228:13484:0320/153902.646:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 20, 2025 15:39:57.90 [9228:13484:0320/153957.903:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 20, 2025 15:41:32.48 [9228:13484:0320/154132.482:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 20, 2025 15:45:02.55 [9228:13484:0320/154502.554:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 20, 2025 15:50:39.09 [9228:13484:0320/155039.091:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+
+Mar 20, 2025 22:12:15.79 NEW SESSION
+Mar 20, 2025 22:12:15.91 [6040:12392:0320/221215.793:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 20, 2025 22:12:18.13 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 20, 2025 22:12:18.38 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 20, 2025 22:12:44.19 [6040:12392:0320/221244.196:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 20, 2025 22:13:27.02 [6040:12392:0320/221327.028:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 20, 2025 22:15:27.07 [6040:12392:0320/221527.069:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 20, 2025 22:19:08.24 [6040:12392:0320/221908.240:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 20, 2025 22:24:49.17 [6040:12392:0320/222449.172:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 21, 2025 14:19:05.87 NEW SESSION
+Mar 21, 2025 14:19:05.94 [5592:13336:0321/141905.834:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 21, 2025 14:19:07.63 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 21, 2025 14:19:07.69 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 21, 2025 14:19:31.93 [5592:13336:0321/141931.936:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 21, 2025 14:20:20.93 [5592:13336:0321/142020.936:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 21, 2025 14:21:58.84 [5592:13336:0321/142158.844:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 21, 2025 14:24:50.16 [5592:13336:0321/142450.160:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 21, 2025 14:32:43.03 [5592:13336:0321/143243.038:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 21, 2025 15:17:04.13 NEW SESSION
+Mar 21, 2025 15:17:04.18 [2448:12716:0321/151704.133:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 21, 2025 15:17:05.24 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 21, 2025 15:17:05.29 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 21, 2025 15:17:33.99 [2448:12716:0321/151733.999:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 21, 2025 15:18:23.01 [2448:12716:0321/151823.014:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 21, 2025 15:20:19.79 [11452:11868:0321/152019.792:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 21, 2025 15:20:20.46 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 21, 2025 15:20:20.49 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 21, 2025 15:20:40.20 [11452:11868:0321/152040.201:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 21, 2025 15:21:25.26 [11452:11868:0321/152125.268:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 21, 2025 15:23:11.78 [11452:11868:0321/152311.782:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 21, 2025 15:26:28.15 [11452:11868:0321/152628.156:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 21, 2025 15:32:02.68 [11452:11868:0321/153202.684:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 21, 2025 19:15:24.13 [11452:9312:0321/191524.133:ERROR:device_event_log_impl.cc(202)] [19:15:23.218] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2025 20:33:14.44 [11452:11868:0321/203314.345:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 21, 2025 20:33:14.47 [11452:11868:0321/203314.352:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 21, 2025 20:33:18.86 [11452:11868:0321/203318.867:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+Mar 22, 2025 11:02:54.24 NEW SESSION
+Mar 22, 2025 11:02:54.38 [2368:8728:0322/110254.223:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 22, 2025 11:02:54.48 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 22, 2025 11:02:54.49 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 22, 2025 11:03:19.98 [2368:8728:0322/110319.976:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 22, 2025 11:04:04.76 [2368:8728:0322/110404.766:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 22, 2025 11:05:52.54 [2368:8728:0322/110552.541:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 22, 2025 11:09:33.03 [2368:8728:0322/110933.033:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 22, 2025 11:16:40.76 [2368:8728:0322/111640.766:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 22, 2025 11:32:56.89 [2368:8728:0322/113256.899:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 22, 2025 12:14:42.24 [2368:8352:0322/121442.242:ERROR:device_event_log_impl.cc(202)] [12:14:42.057] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 22, 2025 12:22:45.99 [2368:8728:0322/122245.994:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 22, 2025 13:24:21.56 [2368:8728:0322/132421.565:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 22, 2025 13:36:20.14 [2368:9444:0322/133620.142:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Mar 22, 2025 13:55:46.80 [4468:12560:0322/135546.808:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 22, 2025 13:55:48.77 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 22, 2025 13:55:48.81 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 22, 2025 13:56:07.94 [4468:12560:0322/135607.942:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 22, 2025 13:56:52.39 [4468:12560:0322/135652.399:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 22, 2025 13:58:29.07 [4468:12560:0322/135829.074:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 22, 2025 14:01:28.25 [4468:12560:0322/140128.250:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 22, 2025 14:02:17.42 [4468:1672:0322/140217.429:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+Mar 22, 2025 14:08:32.90 [4468:12560:0322/140832.907:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 23, 2025 23:10:26.89 NEW SESSION
+Mar 23, 2025 23:10:26.91 [1868:5756:0323/231026.861:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 23, 2025 23:10:27.95 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 23, 2025 23:10:28.01 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 23, 2025 23:10:53.45 [1868:5756:0323/231053.455:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 23, 2025 23:11:49.80 [1868:5756:0323/231149.804:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 25, 2025 14:27:25.69 NEW SESSION
+Mar 25, 2025 14:27:31.23 [4708:11544:0325/142725.294:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 25, 2025 14:27:31.35 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 25, 2025 14:27:31.35 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 25, 2025 14:27:49.83 [4708:11544:0325/142745.964:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 25, 2025 14:28:35.89 [4708:11544:0325/142835.892:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 25, 2025 14:30:15.91 [4708:11544:0325/143015.919:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 25, 2025 14:32:15.19 [4708:11544:0325/143215.190:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 25, 2025 14:32:15.39 [4708:11544:0325/143215.394:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 25, 2025 14:32:21.73 [4708:13044:0325/143221.739:ERROR:device_event_log_impl.cc(202)] [14:32:21.740] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 25, 2025 14:33:13.90 [4708:11544:0325/143313.908:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 25, 2025 14:40:45.34 [4708:11544:0325/144045.343:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 25, 2025 14:44:26.78 [4708:13044:0325/144426.779:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 25, 2025 14:44:27.13 [4708:13044:0325/144427.138:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 25, 2025 14:44:27.18 [4708:13044:0325/144427.185:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 25, 2025 14:44:27.37 [4708:13044:0325/144427.374:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 25, 2025 14:44:27.42 [4708:13044:0325/144427.420:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 25, 2025 14:44:27.73 [4708:13044:0325/144427.732:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 25, 2025 14:44:27.91 [4708:13044:0325/144427.919:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 25, 2025 14:44:28.94 [4708:13044:0325/144428.947:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 25, 2025 14:44:29.26 [4708:13044:0325/144429.260:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 25, 2025 15:09:30.76 [4708:11544:0325/150930.761:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 25, 2025 15:10:03.21 [4708:11544:0325/151003.213:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 25, 2025 15:10:03.32 [4708:11544:0325/151003.320:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 25, 2025 15:10:07.82 [4708:13044:0325/151007.828:ERROR:device_event_log_impl.cc(202)] [15:10:07.828] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 26, 2025 24:07:24.74 NEW SESSION
+Mar 26, 2025 24:07:25.22 [6876:5504:0326/000724.564:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 26, 2025 24:07:25.35 [6876:5504:0326/000724.885:ERROR:native_message_process_host.cc(355)] Error when writing to Native Messaging host: -101
+Mar 26, 2025 24:07:26.29 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 26, 2025 24:07:26.46 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 26, 2025 24:07:46.90 [6876:5504:0326/000746.906:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 26, 2025 24:08:43.68 [6876:5504:0326/000843.688:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 26, 2025 24:10:37.06 [6876:5504:0326/001037.064:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 26, 2025 24:13:53.86 [6876:5504:0326/001353.862:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 26, 2025 24:20:42.33 [6876:5504:0326/002042.337:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 26, 2025 01:37:36.04 [6876:5504:0326/013735.474:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 26, 2025 04:37:43.62 [6876:3456:0326/043743.621:ERROR:device_event_log_impl.cc(202)] [04:37:43.622] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 26, 2025 11:06:45.59 [6876:11420:0326/110645.591:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 26, 2025 11:06:45.86 [6876:5504:0326/110645.850:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 26, 2025 11:06:47.84 [6876:5504:0326/110647.841:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 26, 2025 11:06:52.76 [6876:3456:0326/110652.767:ERROR:device_event_log_impl.cc(202)] [11:06:52.766] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 26, 2025 11:07:22.88 [6876:5504:0326/110722.882:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 26, 2025 11:07:47.44 [6876:5504:0326/110747.440:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+
+Mar 27, 2025 14:23:32.11 NEW SESSION
+Mar 27, 2025 14:23:32.39 [13556:8620:0327/142331.416:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 27, 2025 14:23:32.62 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 27, 2025 14:23:32.72 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 27, 2025 14:23:52.67 [13556:8620:0327/142352.676:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 27, 2025 14:24:50.06 [13556:8620:0327/142450.061:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 27, 2025 14:26:46.84 [13556:8620:0327/142646.847:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 27, 2025 14:29:40.64 [13556:8620:0327/142940.643:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 27, 2025 14:36:45.01 [13556:8620:0327/143645.018:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 27, 2025 16:10:33.60 [13556:8620:0327/161033.552:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 27, 2025 19:10:38.29 [13556:5884:0327/191038.292:ERROR:device_event_log_impl.cc(202)] [19:10:38.270] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 27, 2025 22:06:08.63 [13556:3240:0327/220608.568:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_IO_SUSPENDED)
+Mar 28, 2025 24:01:58.06 [13556:8620:0328/000158.023:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 28, 2025 24:02:59.52 [13556:5884:0328/000259.430:ERROR:device_event_log_impl.cc(202)] [00:02:59.171] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 28, 2025 14:20:23.87 NEW SESSION
+Mar 28, 2025 14:20:24.03 [14660:15204:0328/142023.870:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 28, 2025 14:20:25.59 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 28, 2025 14:20:25.63 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 28, 2025 14:20:48.95 [14660:15204:0328/142048.951:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 28, 2025 14:21:29.17 [14660:15204:0328/142129.175:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 28, 2025 14:23:07.71 [14660:15204:0328/142307.710:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 28, 2025 14:26:19.95 [14660:15204:0328/142619.948:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 28, 2025 14:32:47.87 [14660:15204:0328/143247.872:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 28, 2025 14:44:26.40 [14660:14408:0328/144426.404:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 28, 2025 14:44:26.99 [14660:14408:0328/144426.991:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 28, 2025 14:44:27.45 [14660:14408:0328/144427.454:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 28, 2025 14:44:27.56 [14660:14408:0328/144427.563:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 28, 2025 14:44:27.71 [14660:14408:0328/144427.718:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 28, 2025 14:44:27.90 [14660:14408:0328/144427.905:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 28, 2025 14:44:28.07 [14660:14408:0328/144428.074:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 28, 2025 14:44:28.57 [14660:14408:0328/144428.571:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 28, 2025 14:44:29.34 [14660:14408:0328/144429.345:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 28, 2025 16:09:37.27 [5372:6900:0328/160937.273:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 28, 2025 16:09:39.28 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 28, 2025 16:09:39.33 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 28, 2025 16:10:04.67 [5372:6900:0328/161004.678:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 28, 2025 16:10:57.56 [5372:6900:0328/161057.568:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 28, 2025 16:12:39.18 [5372:6900:0328/161239.188:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 28, 2025 16:16:48.19 [5372:124:0328/161648.194:ERROR:device_event_log_impl.cc(202)] [16:16:48.179] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 28, 2025 16:16:49.99 [5372:6900:0328/161649.993:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 28, 2025 16:23:39.82 [5372:6900:0328/162339.828:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 28, 2025 19:32:01.29 [5372:124:0328/193201.290:ERROR:device_event_log_impl.cc(202)] [19:32:01.290] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 28, 2025 21:59:11.54 [5372:6900:0328/215911.546:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 28, 2025 21:59:40.52 [5372:6900:0328/215940.523:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 28, 2025 22:00:36.00 [5372:6900:0328/220035.998:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 28, 2025 22:02:13.69 [5372:6900:0328/220213.689:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 28, 2025 22:05:22.36 [5372:6900:0328/220522.365:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 28, 2025 22:12:35.90 [5372:6900:0328/221235.905:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 28, 2025 23:39:21.83 [5372:124:0328/233921.782:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+
+Mar 30, 2025 24:33:36.08 NEW SESSION
+Mar 30, 2025 24:33:36.22 [8936:2100:0330/003336.083:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 30, 2025 24:33:37.48 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 30, 2025 24:33:37.59 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 30, 2025 24:34:03.40 [8936:2100:0330/003403.407:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 30, 2025 24:34:57.86 [8936:2100:0330/003457.859:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 30, 2025 24:36:20.70 [8936:2100:0330/003620.708:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 30, 2025 24:40:52.09 [12464:7676:0330/004052.093:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 30, 2025 24:40:54.18 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 30, 2025 24:40:54.24 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 30, 2025 24:41:19.27 [12464:7676:0330/004119.276:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 30, 2025 24:42:17.65 [12464:7676:0330/004217.658:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 30, 2025 24:44:03.85 [12464:7676:0330/004403.857:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 30, 2025 24:47:19.16 [12464:7676:0330/004719.162:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Apr 01, 2025 24:10:37.90 NEW SESSION
+Apr 01, 2025 24:10:37.96 [10588:9796:0401/001037.897:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 01, 2025 24:10:38.88 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 01, 2025 24:10:38.95 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 01, 2025 24:11:04.95 [10588:9796:0401/001104.952:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 01, 2025 24:12:02.89 [10588:9796:0401/001202.889:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 01, 2025 24:13:46.57 [10588:9796:0401/001346.578:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 01, 2025 24:16:44.43 [10588:9796:0401/001644.432:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Apr 01, 2025 21:55:03.23 NEW SESSION
+Apr 01, 2025 21:55:03.37 [5480:15056:0401/215503.230:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 01, 2025 21:55:05.39 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 01, 2025 21:55:05.43 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 01, 2025 21:55:25.06 [5480:15056:0401/215525.066:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 01, 2025 21:56:17.49 [5480:15056:0401/215617.491:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 01, 2025 21:57:43.37 [5480:15056:0401/215743.371:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 01, 2025 22:00:36.54 [5480:15056:0401/220036.540:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 01, 2025 22:08:32.36 [5480:15056:0401/220832.349:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 01, 2025 22:24:19.15 [5480:15056:0401/222419.150:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Apr 02, 2025 16:27:42.05 NEW SESSION
+Apr 02, 2025 16:27:42.11 [8280:12932:0402/162742.041:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 02, 2025 16:27:44.38 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 02, 2025 16:27:44.44 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 02, 2025 16:28:03.39 [8280:12932:0402/162803.398:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 02, 2025 16:28:52.32 [8280:12932:0402/162852.324:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 02, 2025 16:30:41.49 [8280:12932:0402/163041.489:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 02, 2025 16:34:14.59 [8280:12932:0402/163414.595:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+
+Apr 03, 2025 14:16:35.43 NEW SESSION
+Apr 03, 2025 14:16:35.50 [6720:10124:0403/141635.435:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 03, 2025 14:16:37.93 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 03, 2025 14:16:37.99 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 03, 2025 14:16:57.44 [6720:10124:0403/141657.445:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 03, 2025 14:17:06.05 [6720:11212:0403/141706.059:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 03, 2025 14:17:06.42 [6720:11212:0403/141706.428:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 03, 2025 14:17:06.77 [6720:11212:0403/141706.776:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 03, 2025 14:17:06.88 [6720:11212:0403/141706.883:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 03, 2025 14:17:06.96 [6720:11212:0403/141706.961:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 03, 2025 14:17:06.99 [6720:11212:0403/141706.992:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 03, 2025 14:17:07.00 [6720:11212:0403/141707.008:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 03, 2025 14:17:07.39 [6720:11212:0403/141707.396:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 03, 2025 14:17:07.53 [6720:11212:0403/141707.536:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 03, 2025 14:17:46.65 [6720:10124:0403/141746.650:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 03, 2025 14:19:36.20 [6720:10124:0403/141936.201:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 03, 2025 14:22:57.70 [6720:10124:0403/142257.709:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 03, 2025 14:30:47.58 [6720:10124:0403/143047.580:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 03, 2025 14:38:42.52 [6720:10124:0403/143842.511:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 03, 2025 14:38:42.88 [6720:10124:0403/143842.537:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2025 14:38:46.80 [6720:11212:0403/143846.804:ERROR:device_event_log_impl.cc(202)] [14:38:46.804] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 03, 2025 14:51:42.30 [6720:10124:0403/145142.307:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 03, 2025 14:52:31.00 [6720:10124:0403/145231.000:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 03, 2025 14:52:31.00 [6720:10124:0403/145231.006:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2025 14:52:35.24 [6720:11212:0403/145235.247:ERROR:device_event_log_impl.cc(202)] [14:52:35.247] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Apr 04, 2025 14:16:19.72 NEW SESSION
+Apr 04, 2025 14:16:19.80 [3836:5116:0404/141619.726:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 04, 2025 14:16:21.24 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 04, 2025 14:16:21.34 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 04, 2025 14:16:41.00 [3836:5116:0404/141641.007:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 04, 2025 14:16:55.75 [3836:13168:0404/141655.759:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 04, 2025 14:16:55.99 [3836:13168:0404/141655.993:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 04, 2025 14:16:56.02 [3836:13168:0404/141656.024:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 04, 2025 14:16:56.16 [3836:13168:0404/141656.164:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 04, 2025 14:16:56.56 [3836:13168:0404/141656.568:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 04, 2025 14:16:57.06 [3836:13168:0404/141657.065:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 04, 2025 14:16:57.06 [3836:13168:0404/141657.065:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 04, 2025 14:16:57.31 [3836:13168:0404/141657.314:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 04, 2025 14:16:57.57 [3836:13168:0404/141657.577:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 04, 2025 14:17:40.92 [3836:5116:0404/141740.929:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 04, 2025 14:19:03.47 [3836:5116:0404/141903.470:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 04, 2025 14:21:55.42 [3836:5116:0404/142155.423:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 04, 2025 14:22:30.82 [3836:5116:0404/142230.827:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2025 14:22:30.83 [3836:5116:0404/142230.839:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2025 14:27:27.73 [3836:5116:0404/142727.723:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 04, 2025 14:29:13.31 [3836:5116:0404/142913.293:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 04, 2025 14:29:27.60 [3836:5116:0404/142927.605:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 04, 2025 14:29:31.98 [3836:13168:0404/142931.982:ERROR:device_event_log_impl.cc(202)] [14:29:31.981] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 04, 2025 14:42:03.24 [3836:5116:0404/144203.245:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 04, 2025 14:42:03.64 [3836:5116:0404/144203.334:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2025 14:42:07.61 [3836:13168:0404/144207.615:ERROR:device_event_log_impl.cc(202)] [14:42:07.616] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 04, 2025 14:58:05.45 [3836:5116:0404/145805.365:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 04, 2025 14:58:53.88 [3836:5116:0404/145853.884:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 04, 2025 14:58:53.88 [3836:5116:0404/145853.888:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2025 14:58:58.20 [3836:13168:0404/145858.207:ERROR:device_event_log_impl.cc(202)] [14:58:58.208] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 04, 2025 16:08:06.21 [3836:5116:0404/160806.168:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 04, 2025 16:08:41.48 [3836:13168:0404/160841.485:ERROR:device_event_log_impl.cc(202)] [16:08:41.429] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 04, 2025 16:08:45.10 [3836:14536:0404/160845.098:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_IO_SUSPENDED)
+Apr 04, 2025 16:08:47.78 [3836:14060:0404/160847.785:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Apr 04, 2025 16:13:34.22 [3836:5116:0404/161334.218:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 04, 2025 16:13:54.90 [3836:13168:0404/161354.901:ERROR:device_event_log_impl.cc(202)] [16:13:54.901] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 04, 2025 16:22:14.25 [3836:5116:0404/162214.258:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 04, 2025 19:22:18.27 [3836:13168:0404/192218.271:ERROR:device_event_log_impl.cc(202)] [19:22:18.270] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 04, 2025 22:33:22.54 [3836:16208:0404/223322.545:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 04, 2025 22:33:53.88 Client requested cancel during Invoke()
+Apr 04, 2025 22:33:56.30 Client requested cancel during Invoke()
+Apr 04, 2025 23:36:43.67 [3836:13168:0404/233643.395:ERROR:device_event_log_impl.cc(202)] [23:36:43.354] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 04, 2025 23:36:44.41 [3836:13168:0404/233644.054:ERROR:device_event_log_impl.cc(202)] [23:36:44.054] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 04, 2025 23:36:44.46 [3836:13168:0404/233644.189:ERROR:device_event_log_impl.cc(202)] [23:36:44.179] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Apr 04, 2025 23:49:12.52 [3836:13168:0404/234912.499:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 04, 2025 23:49:12.70 [3836:13168:0404/234912.501:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Apr 05, 2025 24:25:22.03 [3836:13168:0405/002521.982:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+Apr 05, 2025 24:25:22.32 [3836:13168:0405/002521.982:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+Apr 05, 2025 01:12:04.76 [3836:13168:0405/011204.382:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Apr 05, 2025 01:13:44.10 [3836:13168:0405/011344.100:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Apr 05, 2025 01:19:53.22 [3836:13168:0405/011953.207:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Apr 05, 2025 01:30:06.92 [3836:13168:0405/013006.833:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Apr 05, 2025 01:31:59.65 [3836:13168:0405/013159.512:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Apr 05, 2025 01:35:13.36 [3836:13168:0405/013513.355:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Apr 05, 2025 01:36:21.31 [3836:13168:0405/013621.283:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Apr 05, 2025 01:36:25.07 Client requested cancel during Invoke()
+Apr 05, 2025 01:39:49.57 [3836:13168:0405/013949.575:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Apr 05, 2025 01:42:05.93 [3836:13168:0405/014205.929:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+
+Apr 05, 2025 11:46:18.58 NEW SESSION
+Apr 05, 2025 11:46:19.26 [14496:6436:0405/114618.580:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 05, 2025 11:46:20.22 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 05, 2025 11:46:20.64 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 05, 2025 11:46:39.59 [14496:6436:0405/114639.594:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 05, 2025 11:47:23.89 [14496:6436:0405/114723.898:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 05, 2025 11:49:22.47 [14496:6436:0405/114922.473:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 05, 2025 11:52:18.76 [14496:6436:0405/115218.762:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 05, 2025 11:59:39.77 [14496:6436:0405/115939.776:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 05, 2025 12:54:49.67 [14496:12272:0405/125449.677:ERROR:device_event_log_impl.cc(202)] [12:54:48.268] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 05, 2025 13:02:11.97 [3248:16328:0405/130211.973:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 05, 2025 13:02:13.36 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 05, 2025 13:02:13.39 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 05, 2025 13:02:35.18 [3248:16328:0405/130235.188:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 05, 2025 13:03:29.97 [3248:16328:0405/130329.976:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 05, 2025 13:05:24.34 [3248:16328:0405/130524.346:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 05, 2025 13:08:31.56 [3248:16328:0405/130831.566:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 05, 2025 13:14:30.24 [3248:16328:0405/131430.245:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 05, 2025 14:13:14.78 [3248:16328:0405/141314.787:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 05, 2025 14:13:43.25 [3248:16328:0405/141343.253:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 05, 2025 14:14:34.20 [3248:16328:0405/141434.208:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 05, 2025 14:16:11.93 [3248:16328:0405/141611.938:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 05, 2025 14:20:09.67 [3248:16328:0405/142009.678:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 05, 2025 14:26:40.66 [3248:16328:0405/142640.661:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 05, 2025 14:28:02.14 [3248:7156:0405/142802.143:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+Apr 05, 2025 14:49:21.56 [3248:16328:0405/144921.567:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 05, 2025 17:49:26.73 [3248:7156:0405/174926.732:ERROR:device_event_log_impl.cc(202)] [17:49:26.732] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 06, 2025 24:58:21.70 [3248:16328:0406/005821.543:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 06, 2025 24:58:24.27 [3248:16328:0406/005824.278:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 06, 2025 24:59:27.71 Client requested cancel during Invoke()
+Apr 06, 2025 02:13:15.62 [3248:16328:0406/021315.616:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 06, 2025 02:13:41.53 [3248:16328:0406/021341.533:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 06, 2025 02:14:33.65 [3248:16328:0406/021433.650:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 06, 2025 02:16:26.27 [3248:16328:0406/021626.269:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 06, 2025 02:19:35.57 [3248:16328:0406/021935.576:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 06, 2025 02:27:08.72 [3248:16328:0406/022708.723:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Apr 07, 2025 14:21:44.26 NEW SESSION
+Apr 07, 2025 14:21:44.33 [8848:15636:0407/142144.257:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 07, 2025 14:21:46.56 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 07, 2025 14:21:46.64 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 07, 2025 14:22:08.31 [5336:9724:0407/142208.309:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 07, 2025 14:22:08.90 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 07, 2025 14:22:08.94 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 07, 2025 14:22:25.55 [5336:9128:0407/142225.553:ERROR:new_tab_page_handler.cc(1345)] NewTabPage loaded into a non-browser-tab context
+Apr 07, 2025 14:22:28.48 [5336:9724:0407/142228.480:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 07, 2025 14:22:28.48 [5336:9724:0407/142228.480:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 07, 2025 14:22:51.24 [5336:9724:0407/142251.242:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 07, 2025 14:22:56.23 [5336:9724:0407/142256.230:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 07, 2025 14:23:38.37 [5336:9724:0407/142338.370:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 07, 2025 14:23:42.30 [5336:9724:0407/142342.303:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 07, 2025 14:24:59.93 [5336:9724:0407/142459.932:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 07, 2025 14:25:18.89 [5336:9724:0407/142518.893:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 07, 2025 14:28:00.26 [5336:9724:0407/142800.265:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 07, 2025 14:28:49.13 [5336:9724:0407/142849.129:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 07, 2025 14:28:59.47 [5336:9128:0407/142859.472:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 07, 2025 14:34:08.30 [5336:9724:0407/143408.307:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 07, 2025 14:34:56.94 [5336:9724:0407/143456.947:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 07, 2025 14:34:56.94 [5336:9128:0407/143456.948:ERROR:sharing_service.cc(291)] Device registration failed with transient error
+Apr 07, 2025 14:39:10.10 [5336:9724:0407/143910.107:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 07, 2025 14:39:35.52 [5336:9724:0407/143935.526:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 07, 2025 14:40:27.01 [5336:9724:0407/144027.015:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 07, 2025 14:42:10.47 [5336:9724:0407/144210.472:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 07, 2025 14:44:57.87 [5336:9724:0407/144457.871:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 07, 2025 14:51:07.29 [5336:9724:0407/145107.298:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 07, 2025 14:56:51.40 [5336:9724:0407/145651.405:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 07, 2025 14:57:24.04 [5336:9724:0407/145724.049:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 07, 2025 14:57:24.13 [5336:9724:0407/145724.131:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2025 14:57:28.38 [5336:9128:0407/145728.379:ERROR:device_event_log_impl.cc(202)] [14:57:28.379] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 07, 2025 19:18:39.36 [5336:9128:0407/191839.329:ERROR:device_event_log_impl.cc(202)] [19:18:39.327] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 08, 2025 24:18:46.07 [5336:9724:0408/001846.066:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2025 24:18:46.22 [5336:9724:0408/001846.100:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2025 24:19:57.41 [5336:9724:0408/001957.417:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2025 24:19:57.42 [5336:9724:0408/001957.419:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Apr 08, 2025 14:27:07.01 NEW SESSION
+Apr 08, 2025 14:27:07.12 [6188:2256:0408/142707.015:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:27:07.14 [6188:2256:0408/142707.015:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:27:07.14 [6188:2256:0408/142707.015:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:27:08.78 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 08, 2025 14:27:09.28 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 08, 2025 14:27:27.51 [6188:2256:0408/142727.509:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:27:30.06 [6188:2256:0408/142730.062:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:27:32.46 [6188:2256:0408/142732.460:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:28:23.73 [6188:2256:0408/142823.737:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:28:26.41 [6188:2256:0408/142826.411:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:28:30.16 [6188:2256:0408/142830.166:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:30:01.53 [6188:2256:0408/143001.531:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:30:04.94 [6188:2256:0408/143004.946:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:30:23.61 [6188:2256:0408/143023.615:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:33:27.46 [6188:2256:0408/143327.464:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:33:44.58 [6188:2256:0408/143344.583:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:33:48.92 [6188:2256:0408/143348.919:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:40:04.36 [6188:2256:0408/144004.364:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:40:07.74 [6188:2256:0408/144007.745:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:40:15.67 [6188:2256:0408/144015.673:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 08, 2025 14:43:55.37 [6188:13292:0408/144355.372:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Apr 08, 2025 19:28:26.31 [6188:13292:0408/192826.243:ERROR:device_event_log_impl.cc(202)] [19:28:26.243] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 09, 2025 14:37:31.41 [6188:13292:0409/143731.409:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 09, 2025 14:37:31.58 [6188:13292:0409/143731.584:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 09, 2025 14:37:31.59 [6188:13292:0409/143731.598:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 09, 2025 14:37:32.08 [6188:13292:0409/143732.085:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 09, 2025 14:37:32.13 [6188:13292:0409/143732.133:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 09, 2025 14:37:32.16 [6188:13292:0409/143732.162:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 09, 2025 14:37:32.65 [6188:13292:0409/143732.656:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 09, 2025 14:37:33.41 [6188:13292:0409/143733.417:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 09, 2025 14:37:34.27 [6188:13292:0409/143734.271:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 09, 2025 14:39:59.61 [6188:2256:0409/143959.610:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 09, 2025 14:40:02.96 [6188:2256:0409/144002.967:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 09, 2025 14:40:23.05 [6188:2256:0409/144023.050:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 09, 2025 14:40:32.57 [6188:2256:0409/144032.577:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 09, 2025 14:41:06.06 [6188:2256:0409/144106.062:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 09, 2025 14:41:16.23 [6188:2256:0409/144116.233:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 09, 2025 14:43:02.16 [6188:2256:0409/144302.168:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 09, 2025 14:43:02.94 [6188:2256:0409/144302.945:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 09, 2025 14:46:01.90 [6188:2256:0409/144601.902:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 09, 2025 14:47:02.14 [6188:2256:0409/144702.145:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 09, 2025 14:52:38.43 [6188:2256:0409/145238.432:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 09, 2025 14:52:55.76 [6188:2256:0409/145255.760:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 09, 2025 18:51:29.87 [6188:13292:0409/185129.838:ERROR:device_event_log_impl.cc(202)] [18:51:29.838] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 09, 2025 21:59:51.10 [6188:2256:0409/215951.104:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 09, 2025 21:59:53.90 [6188:13292:0409/215953.895:ERROR:device_event_log_impl.cc(202)] [21:59:53.884] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 09, 2025 22:00:20.96 [6188:2256:0409/220020.967:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 09, 2025 22:01:12.39 [6188:2256:0409/220112.307:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 09, 2025 22:02:38.47 [6188:2256:0409/220238.459:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 09, 2025 22:05:37.17 [6188:2256:0409/220537.170:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 09, 2025 22:05:52.14 [6188:13292:0409/220552.145:ERROR:device_event_log_impl.cc(202)] [22:05:52.145] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 09, 2025 22:11:04.57 [6188:2256:0409/221104.563:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2025 23:30:53.58 [6188:13292:0409/233053.561:ERROR:device_event_log_impl.cc(202)] [23:30:51.431] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 09, 2025 23:30:59.33 [6188:2256:0409/233059.319:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 09, 2025 23:39:10.77 [6188:13292:0409/233910.738:ERROR:device_event_log_impl.cc(202)] [23:39:10.642] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 09, 2025 23:39:11.16 [6188:13292:0409/233910.746:ERROR:device_event_log_impl.cc(202)] [23:39:10.668] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Apr 10, 2025 24:44:49.05 [6188:2256:0410/004448.772:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2025 24:49:21.23 [6188:13292:0410/004919.516:ERROR:device_event_log_impl.cc(202)] [00:49:18.545] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 10, 2025 01:13:10.08 [6188:13292:0410/011310.075:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 10, 2025 01:20:25.60 [6188:2256:0410/012025.418:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2025 04:20:45.61 [6188:13292:0410/042045.617:ERROR:device_event_log_impl.cc(202)] [04:20:41.848] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 10, 2025 12:01:34.74 [6188:2256:0410/120134.744:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2025 12:01:49.10 [6188:2256:0410/120149.102:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 12:02:18.30 [6188:2256:0410/120218.305:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 12:03:18.23 [6188:2256:0410/120318.234:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 12:04:41.20 [6188:2256:0410/120441.199:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 12:08:31.66 [6188:2256:0410/120831.666:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 12:14:28.42 [6188:2256:0410/121428.413:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Apr 10, 2025 14:22:28.42 NEW SESSION
+Apr 10, 2025 14:22:28.53 [14244:2512:0410/142228.425:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 14:22:30.52 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 10, 2025 14:22:30.77 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 10, 2025 14:22:52.70 [14244:2512:0410/142252.699:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 14:23:49.25 [14244:2512:0410/142349.251:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 14:25:33.61 [14244:2512:0410/142533.615:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 14:29:02.03 [14244:2512:0410/142902.035:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 14:31:33.87 [14244:2512:0410/143133.873:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2025 14:31:48.55 [14244:2512:0410/143148.549:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2025 14:31:53.44 [14244:4876:0410/143153.440:ERROR:device_event_log_impl.cc(202)] [14:31:53.436] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 10, 2025 14:35:59.26 [14244:2512:0410/143559.263:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 10, 2025 14:37:25.99 [14244:4876:0410/143725.992:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 10, 2025 14:37:26.69 [14244:4876:0410/143726.693:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 10, 2025 14:37:26.75 [14244:4876:0410/143726.755:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 10, 2025 14:37:27.17 [14244:4876:0410/143727.172:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 10, 2025 14:37:27.20 [14244:4876:0410/143727.204:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 10, 2025 14:37:27.29 [14244:4876:0410/143727.299:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 10, 2025 14:37:27.36 [14244:4876:0410/143727.361:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 10, 2025 14:37:27.72 [14244:4876:0410/143727.719:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 10, 2025 14:37:28.00 [14244:4876:0410/143728.001:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 10, 2025 14:49:46.89 [14244:2512:0410/144946.893:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2025 14:49:46.98 [14244:2512:0410/144946.947:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2025 14:49:51.32 [14244:4876:0410/144951.327:ERROR:device_event_log_impl.cc(202)] [14:49:51.326] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 10, 2025 15:11:34.30 [14244:2512:0410/151134.276:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2025 15:11:34.52 [14244:2512:0410/151134.365:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2025 15:11:39.53 [14244:4876:0410/151139.535:ERROR:device_event_log_impl.cc(202)] [15:11:39.533] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 10, 2025 15:18:13.63 [14244:2512:0410/151813.549:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2025 15:18:14.02 [14244:2512:0410/151813.560:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2025 15:18:17.71 [14244:4876:0410/151817.712:ERROR:device_event_log_impl.cc(202)] [15:18:17.713] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 10, 2025 16:03:49.92 [14244:16184:0410/160349.918:ERROR:get_updates_processor.cc(267)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 10, 2025 16:14:30.28 [14244:2512:0410/161430.225:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2025 16:14:30.71 [14244:2512:0410/161430.237:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2025 16:14:34.76 [14244:4876:0410/161434.769:ERROR:device_event_log_impl.cc(202)] [16:14:34.764] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 10, 2025 19:18:26.83 [14244:4876:0410/191826.838:ERROR:device_event_log_impl.cc(202)] [19:18:26.838] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Apr 12, 2025 22:19:39.29 NEW SESSION
+Apr 12, 2025 22:19:39.88 [956:9436:0412/221938.080:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 12, 2025 22:19:41.53 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2025 22:19:41.99 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 12, 2025 22:20:06.85 [956:9436:0412/222006.852:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 12, 2025 22:20:53.86 [956:9436:0412/222053.861:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 12, 2025 22:22:24.85 [956:9436:0412/222224.849:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 12, 2025 22:26:13.44 [956:9436:0412/222613.449:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 12, 2025 22:32:53.23 [956:9436:0412/223253.234:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Apr 14, 2025 14:46:43.67 NEW SESSION
+Apr 14, 2025 14:46:43.75 [13440:2960:0414/144643.648:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 14, 2025 14:46:45.82 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 14, 2025 14:46:46.20 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 14, 2025 14:47:06.75 [13440:2960:0414/144706.754:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 14, 2025 14:47:57.98 [13440:2960:0414/144757.984:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 14, 2025 14:49:20.42 [13440:2960:0414/144920.420:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 14, 2025 14:49:47.28 [13440:2960:0414/144947.287:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 14, 2025 14:49:47.31 [13440:2960:0414/144947.315:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 14, 2025 14:49:53.05 [13440:404:0414/144953.056:ERROR:device_event_log_impl.cc(202)] [14:49:53.055] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 14, 2025 14:52:30.21 [13440:2960:0414/145230.218:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 14, 2025 14:58:12.62 [13440:2960:0414/145812.625:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 14, 2025 15:49:20.90 [13440:2960:0414/154920.906:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 14, 2025 15:49:21.36 [13440:2960:0414/154920.908:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 14, 2025 15:49:26.41 [13440:404:0414/154926.413:ERROR:device_event_log_impl.cc(202)] [15:49:26.412] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 14, 2025 16:24:44.90 [13440:404:0414/162444.906:ERROR:device_event_log_impl.cc(202)] [16:24:44.169] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 14, 2025 16:31:52.70 [13440:2960:0414/163152.709:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 14, 2025 16:36:05.88 [13440:404:0414/163605.886:ERROR:device_event_log_impl.cc(202)] [16:36:05.886] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 14, 2025 16:44:39.82 [13440:2960:0414/164439.821:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 14, 2025 16:45:03.81 [13440:2960:0414/164503.815:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 14, 2025 16:45:08.11 [13440:404:0414/164508.109:ERROR:device_event_log_impl.cc(202)] [16:45:08.109] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 14, 2025 16:53:26.57 [13440:2960:0414/165326.577:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 14, 2025 16:53:26.59 [13440:2960:0414/165326.599:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 14, 2025 17:05:57.98 [13440:2960:0414/170557.985:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 14, 2025 17:06:34.69 [13440:404:0414/170634.694:ERROR:device_event_log_impl.cc(202)] [17:06:34.693] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Apr 15, 2025 22:16:47.88 NEW SESSION
+Apr 15, 2025 22:16:48.07 [8200:11636:0415/221647.867:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 15, 2025 22:16:50.96 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 15, 2025 22:16:51.06 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 15, 2025 22:17:09.99 [8200:11636:0415/221709.993:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 15, 2025 22:17:57.67 [8200:11636:0415/221757.670:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 15, 2025 22:19:25.72 [8200:11636:0415/221925.727:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 15, 2025 22:22:42.17 [8200:11636:0415/222242.175:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+
+Apr 16, 2025 22:54:47.31 NEW SESSION
+Apr 16, 2025 22:54:48.47 [10676:6800:0416/225447.243:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 16, 2025 22:54:48.74 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 16, 2025 22:54:48.74 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 16, 2025 22:55:10.41 [10676:6800:0416/225510.419:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 16, 2025 22:55:59.13 [10676:6800:0416/225559.136:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 16, 2025 22:57:56.54 [10676:6800:0416/225756.544:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 16, 2025 23:00:37.71 [3788:9036:0416/230037.711:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 16, 2025 23:00:38.20 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 16, 2025 23:00:38.22 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 16, 2025 23:01:01.90 [3788:9036:0416/230101.902:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 16, 2025 23:01:30.98 [3788:9036:0416/230130.987:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2025 23:01:58.93 [3788:2060:0416/230158.935:ERROR:device_event_log_impl.cc(202)] [23:01:58.929] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 16, 2025 23:02:08.19 [3788:9036:0416/230208.193:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Apr 17, 2025 09:12:26.41 NEW SESSION
+Apr 17, 2025 09:12:26.58 [11216:8104:0417/091226.370:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 17, 2025 09:12:27.20 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 17, 2025 09:12:27.25 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 17, 2025 09:12:56.37 [11216:8104:0417/091256.374:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 17, 2025 09:13:49.77 [11216:8104:0417/091349.770:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 17, 2025 09:15:25.28 [11216:8104:0417/091525.287:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 17, 2025 09:18:21.00 [11216:8104:0417/091821.006:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Apr 17, 2025 09:25:46.31 NEW SESSION
+Apr 17, 2025 09:25:46.41 [7672:12356:0417/092546.316:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 17, 2025 09:25:47.70 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 17, 2025 09:25:47.78 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 17, 2025 09:26:08.62 [7672:12356:0417/092608.618:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 17, 2025 09:26:25.90 [7672:12356:0417/092625.907:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 17, 2025 10:19:25.54 [7672:9472:0417/101925.548:ERROR:device_event_log_impl.cc(202)] [10:19:25.548] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 17, 2025 10:19:32.63 [7672:12356:0417/101932.632:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 17, 2025 10:21:28.65 [7672:12356:0417/102128.656:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 17, 2025 10:24:28.94 [7672:9472:0417/102428.932:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+Apr 17, 2025 10:24:28.95 [7672:9472:0417/102428.948:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+Apr 17, 2025 10:24:38.53 [7672:12356:0417/102438.537:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 17, 2025 10:28:22.99 [7672:12356:0417/102822.989:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 17, 2025 13:28:28.99 [7672:9472:0417/132828.990:ERROR:device_event_log_impl.cc(202)] [13:28:28.989] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 17, 2025 13:28:31.02 [7672:12356:0417/132829.454:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 17, 2025 13:28:31.02 [7672:12356:0417/132829.688:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 17, 2025 14:02:27.49 [7672:12356:0417/140227.140:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 17, 2025 14:02:27.51 [7672:12356:0417/140227.469:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 17, 2025 14:02:27.52 [7672:4316:0417/140227.474:ERROR:get_updates_processor.cc(267)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 17, 2025 14:03:42.49 [7672:11996:0417/140342.492:ERROR:get_updates_processor.cc(267)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 17, 2025 14:06:50.00 [7672:11996:0417/140650.006:ERROR:get_updates_processor.cc(267)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 17, 2025 15:36:36.35 [7672:11996:0417/153636.322:ERROR:get_updates_processor.cc(267)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Apr 17, 2025 15:36:49.10 [7672:12356:0417/153649.100:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 17, 2025 15:36:58.50 [7672:9472:0417/153658.504:ERROR:device_event_log_impl.cc(202)] [15:36:58.502] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 17, 2025 16:18:23.62 [7672:9472:0417/161823.461:ERROR:device_event_log_impl.cc(202)] [16:18:23.229] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 18, 2025 14:12:20.90 [7672:12356:0418/141220.903:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 18, 2025 14:12:21.28 [7672:12356:0418/141221.282:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 18, 2025 14:12:41.93 [7672:12356:0418/141241.933:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 18, 2025 14:12:42.77 [7672:12356:0418/141242.772:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 18, 2025 14:12:53.00 [7672:9472:0418/141252.982:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 18, 2025 14:12:53.37 [7672:9472:0418/141253.370:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 18, 2025 14:12:53.41 [7672:9472:0418/141253.417:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 18, 2025 14:12:53.71 [7672:9472:0418/141253.712:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 18, 2025 14:12:53.74 [7672:9472:0418/141253.743:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 18, 2025 14:12:53.96 [7672:9472:0418/141253.961:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 18, 2025 14:12:54.30 [7672:9472:0418/141254.301:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 18, 2025 14:12:54.53 [7672:9472:0418/141254.534:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 18, 2025 14:12:55.26 [7672:9472:0418/141255.265:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 18, 2025 14:13:29.40 [7672:12356:0418/141329.405:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 18, 2025 14:13:38.72 [7672:12356:0418/141338.724:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 18, 2025 14:15:13.92 [7672:12356:0418/141513.926:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 18, 2025 14:15:23.98 [7672:12356:0418/141523.982:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 18, 2025 14:18:01.28 [7672:12356:0418/141801.283:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 18, 2025 14:18:11.95 [7672:12356:0418/141811.957:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 18, 2025 14:24:10.09 [7672:12356:0418/142410.092:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 18, 2025 14:25:54.86 [7672:12356:0418/142554.862:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 18, 2025 15:06:17.05 [7672:12356:0418/150616.904:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 18, 2025 15:06:47.08 [7672:12356:0418/150647.087:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 18, 2025 15:07:29.90 [7672:12356:0418/150729.901:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 18, 2025 15:09:29.67 [7672:12356:0418/150929.648:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 18, 2025 15:12:19.92 [7672:12356:0418/151210.651:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 18, 2025 15:20:02.49 [7672:12356:0418/152002.465:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 18, 2025 15:22:08.60 [7672:11996:0418/152208.609:ERROR:get_updates_processor.cc(267)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_CONNECTION_CLOSED)
+Apr 18, 2025 15:34:41.34 [7672:12356:0418/153441.340:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 18, 2025 15:35:30.19 [7672:12356:0418/153530.194:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 18, 2025 15:35:30.20 [7672:12356:0418/153530.200:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 18, 2025 15:35:36.03 [7672:9472:0418/153536.036:ERROR:device_event_log_impl.cc(202)] [15:35:36.026] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Apr 19, 2025 13:24:02.88 NEW SESSION
+Apr 19, 2025 13:24:03.24 [12508:5216:0419/132402.880:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:24:03.44 [12508:5216:0419/132402.880:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:24:03.47 [12508:5216:0419/132402.881:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:24:05.53 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 19, 2025 13:24:05.60 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 19, 2025 13:24:30.40 [12508:5216:0419/132430.408:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:24:32.05 [12508:5216:0419/132432.059:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:24:32.73 [12508:5216:0419/132432.732:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:25:15.34 [12508:5216:0419/132515.349:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:25:29.34 [12508:5216:0419/132529.341:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:25:30.96 [12508:5216:0419/132530.962:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:27:03.86 [12508:5216:0419/132703.867:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:27:05.08 [12508:5216:0419/132705.079:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:27:08.63 [12508:5216:0419/132708.632:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:30:02.92 [12508:5216:0419/133002.921:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:30:05.18 [12508:5216:0419/133005.186:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:30:39.46 [12508:5216:0419/133039.467:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:35:38.75 [12508:5216:0419/133538.752:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:36:21.18 [12508:5216:0419/133621.183:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 13:37:27.40 [12508:5216:0419/133727.404:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 19, 2025 16:53:21.11 [12508:8292:0419/165321.109:ERROR:device_event_log_impl.cc(202)] [16:53:21.109] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 19, 2025 21:41:58.13 [12508:8292:0419/214158.134:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 19, 2025 21:41:58.13 [12508:8292:0419/214158.135:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 19, 2025 21:41:58.22 [12508:8292:0419/214158.222:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 19, 2025 21:41:58.70 [12508:8292:0419/214158.516:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 19, 2025 21:41:58.82 [12508:8292:0419/214158.824:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 19, 2025 21:41:58.97 [12508:8292:0419/214158.979:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 19, 2025 21:41:59.02 [12508:8292:0419/214159.025:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 19, 2025 21:41:59.10 [12508:8292:0419/214159.103:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 19, 2025 21:41:59.89 [12508:8292:0419/214159.890:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 19, 2025 21:42:27.54 [12508:5216:0419/214227.542:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 19, 2025 21:42:52.11 [12508:5216:0419/214252.113:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 19, 2025 21:43:45.43 [12508:5216:0419/214345.431:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 19, 2025 21:45:23.43 [12508:5216:0419/214523.435:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 19, 2025 21:48:47.17 [12508:5216:0419/214847.141:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 19, 2025 21:48:48.74 [12508:8292:0419/214848.740:ERROR:CONSOLE(0)] "[Report Only] Refused to frame 'https://ogs.google.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'self'".
+Apr 19, 2025 21:48:48.75 ", source:  (0)
+Apr 19, 2025 21:48:48.75 [12508:8292:0419/214848.740:ERROR:CONSOLE(0)] "[Report Only] Refused to frame 'https://ogs.google.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'self'".
+Apr 19, 2025 21:48:48.75 ", source:  (0)
+Apr 19, 2025 21:55:04.75 [12508:5216:0419/215504.757:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 19, 2025 22:04:56.13 [12508:5216:0419/220456.130:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 20, 2025 01:05:12.29 [12508:8292:0420/010512.293:ERROR:device_event_log_impl.cc(202)] [01:05:12.200] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 21, 2025 14:16:14.72 [12508:5216:0421/141613.732:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 21, 2025 14:16:14.82 [12508:5216:0421/141614.820:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 21, 2025 14:16:41.75 [12508:5216:0421/141641.750:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 21, 2025 14:16:41.76 [12508:5216:0421/141641.761:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 21, 2025 14:17:09.60 [12508:5216:0421/141709.605:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 21, 2025 14:17:10.01 [12508:5216:0421/141710.015:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 21, 2025 14:17:14.03 [12508:8292:0421/141714.033:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 21, 2025 14:17:14.72 [12508:8292:0421/141714.726:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 21, 2025 14:17:15.53 [12508:8292:0421/141715.529:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 21, 2025 14:17:15.53 [12508:8292:0421/141715.529:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 21, 2025 14:17:15.53 [12508:8292:0421/141715.530:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 21, 2025 14:17:15.87 [12508:8292:0421/141715.870:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 21, 2025 14:17:16.01 [12508:8292:0421/141716.010:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 21, 2025 14:17:16.17 [12508:8292:0421/141716.177:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 21, 2025 14:17:16.46 [12508:8292:0421/141716.465:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 21, 2025 14:17:49.66 [12508:5216:0421/141749.669:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 21, 2025 14:18:13.74 [12508:5216:0421/141813.748:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 21, 2025 14:19:13.65 [12508:5216:0421/141913.650:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 21, 2025 14:21:02.34 [12508:5216:0421/142102.346:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 21, 2025 14:24:50.88 [12508:5216:0421/142450.880:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 21, 2025 14:30:35.80 [12508:5216:0421/143035.802:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 21, 2025 15:06:50.53 [12508:5216:0421/150649.954:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 21, 2025 15:06:51.04 [12508:5216:0421/150649.965:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 21, 2025 15:06:57.76 [12508:8292:0421/150657.766:ERROR:device_event_log_impl.cc(202)] [15:06:57.767] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 21, 2025 15:49:02.52 [12508:5216:0421/154902.526:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 21, 2025 18:49:09.41 [12508:8292:0421/184909.410:ERROR:device_event_log_impl.cc(202)] [18:49:09.409] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 21, 2025 18:49:09.41 [12508:5216:0421/184909.417:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 22, 2025 14:29:51.75 [12508:5216:0422/142951.757:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2025 14:30:34.66 [12508:8292:0422/143034.603:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 22, 2025 14:30:34.86 [12508:8292:0422/143034.867:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 22, 2025 14:30:35.04 [12508:8292:0422/143035.049:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 22, 2025 14:30:35.56 [12508:8292:0422/143035.566:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 22, 2025 14:30:35.76 [12508:8292:0422/143035.766:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 22, 2025 14:30:35.78 [12508:8292:0422/143035.782:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 22, 2025 14:30:35.78 [12508:8292:0422/143035.782:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 22, 2025 14:30:35.85 [12508:8292:0422/143035.850:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 22, 2025 14:30:36.81 [12508:8292:0422/143036.816:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 22, 2025 14:32:22.99 [12508:5216:0422/143222.975:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 22, 2025 14:32:52.90 [12508:5216:0422/143252.862:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 22, 2025 14:33:49.08 [12508:5216:0422/143349.086:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 22, 2025 14:35:44.93 [12508:5216:0422/143544.932:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 22, 2025 14:39:17.60 [12508:5216:0422/143917.466:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 22, 2025 14:41:39.58 [12508:8292:0422/144139.547:ERROR:device_event_log_impl.cc(202)] [14:41:38.753] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+May 02, 2025 14:16:09.35 NEW SESSION
+May 02, 2025 14:16:09.45 [4064:5024:0502/141609.311:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+May 02, 2025 14:16:11.80 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 02, 2025 14:16:11.90 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+May 02, 2025 14:16:36.39 [4064:5024:0502/141636.394:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+May 02, 2025 14:17:24.88 [4064:5024:0502/141724.879:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+May 02, 2025 14:18:56.84 [4064:5024:0502/141856.848:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+May 02, 2025 14:20:54.70 [4064:5024:0502/142054.705:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 02, 2025 14:21:10.13 [4064:5024:0502/142110.132:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 02, 2025 14:21:15.98 [4064:7032:0502/142115.988:ERROR:device_event_log_impl.cc(202)] [14:21:15.988] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 02, 2025 14:22:46.75 [4064:5024:0502/142246.753:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+May 02, 2025 14:28:34.31 [4064:5024:0502/142834.309:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+May 02, 2025 16:11:08.55 [4064:7032:0502/161108.418:ERROR:new_tab_page_handler.cc(1345)] NewTabPage loaded into a non-browser-tab context
+
+May 11, 2025 16:51:34.33 NEW SESSION
+May 11, 2025 16:51:34.47 [8352:7432:0511/165134.315:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+May 11, 2025 16:51:35.43 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 11, 2025 16:51:35.54 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+May 11, 2025 16:52:00.15 [8352:14192:0511/165200.155:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 11, 2025 16:52:00.67 [8352:14192:0511/165200.679:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 11, 2025 16:52:01.02 [8352:14192:0511/165201.021:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 11, 2025 16:52:01.62 [8352:14192:0511/165201.628:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 11, 2025 16:52:01.81 [8352:14192:0511/165201.815:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 11, 2025 16:52:01.87 [8352:14192:0511/165201.876:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 11, 2025 16:52:02.14 [8352:14192:0511/165202.140:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 11, 2025 16:52:02.54 [8352:14192:0511/165202.544:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 11, 2025 16:52:02.59 [8352:14192:0511/165202.591:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 11, 2025 16:52:03.49 [8352:7432:0511/165203.496:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+May 11, 2025 16:52:46.94 [8352:7432:0511/165246.944:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+May 11, 2025 16:54:40.83 [8352:7432:0511/165440.831:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+May 11, 2025 16:58:08.31 [8352:7432:0511/165808.315:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+May 11, 2025 17:04:18.78 [8352:7432:0511/170418.783:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+May 11, 2025 17:05:13.68 [8352:7432:0511/170513.682:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 11, 2025 17:21:44.45 [1436:10492:0511/172144.411:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 11, 2025 17:21:44.79 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 11, 2025 17:21:45.03 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+May 11, 2025 17:22:12.24 [1436:10492:0511/172209.931:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 11, 2025 17:22:51.63 [1436:10492:0511/172251.638:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 11, 2025 17:24:14.47 [1436:10492:0511/172414.470:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 11, 2025 17:27:35.27 [1436:10492:0511/172735.273:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+
+May 16, 2025 11:08:44.48 NEW SESSION
+May 16, 2025 11:08:44.80 [9296:4432:0516/110843.940:ERROR:components\signin\internal\identity_manager\account_info_fetcher.cc:62] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+May 16, 2025 11:08:54.82 [9296:12252:0516/110854.820:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 16, 2025 11:09:21.86 [9296:12252:0516/110921.864:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 16, 2025 11:09:27.34 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 16, 2025 11:09:27.57 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+May 16, 2025 11:10:11.79 [9296:12252:0516/111011.790:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 16, 2025 11:11:27.94 [9296:4432:0516/111127.943:ERROR:services\on_device_model\public\cpp\service_client.cc:36] Unexpected on_device_model service disconnect: The device's GPU is not supported.
+May 16, 2025 11:12:06.62 [9296:12252:0516/111206.619:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 16, 2025 11:15:54.67 [9296:12252:0516/111554.670:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 16, 2025 11:21:57.12 [9296:12252:0516/112157.124:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 16, 2025 11:22:11.56 [9296:12252:0516/112211.567:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+May 16, 2025 11:46:36.21 [9296:4432:0516/114636.209:ERROR:components\device_event_log\device_event_log_impl.cc:202] [11:46:35.276] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 16, 2025 11:46:42.68 [9296:12252:0516/114642.682:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+May 16, 2025 11:46:51.35 [9296:12252:0516/114651.350:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -106
+May 16, 2025 12:47:12.41 [9296:4432:0516/124712.274:ERROR:components\device_event_log\device_event_log_impl.cc:202] [12:47:11.978] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 16, 2025 15:47:53.05 [9296:4432:0516/154750.975:ERROR:components\device_event_log\device_event_log_impl.cc:202] [15:47:50.975] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 18, 2025 12:58:02.21 [9296:4432:0518/125802.116:ERROR:components\signin\internal\identity_manager\account_info_fetcher.cc:62] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+May 18, 2025 12:58:03.15 [9296:12252:0518/125803.154:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
+May 18, 2025 12:58:03.15 [9296:12252:0518/125803.154:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
+May 18, 2025 12:58:29.66 [9296:12252:0518/125827.419:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
+May 18, 2025 12:58:29.66 [9296:12252:0518/125828.446:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
+May 18, 2025 12:58:35.65 [9296:4432:0518/125835.651:ERROR:components\signin\internal\identity_manager\account_info_fetcher.cc:62] OnGetTokenFailure: Connection failed (-106).
+May 18, 2025 12:58:36.23 [9296:4432:0518/125835.721:ERROR:components\signin\internal\identity_manager\account_info_fetcher.cc:62] OnGetTokenFailure: Connection failed (-106).
+May 18, 2025 12:58:36.27 [9296:4432:0518/125835.826:ERROR:components\signin\internal\identity_manager\account_info_fetcher.cc:62] OnGetTokenFailure: Connection failed (-106).
+May 18, 2025 12:58:36.27 [9296:4432:0518/125835.963:ERROR:components\signin\internal\identity_manager\account_info_fetcher.cc:62] OnGetTokenFailure: Connection failed (-106).
+May 18, 2025 12:58:36.27 [9296:4432:0518/125836.270:ERROR:components\signin\internal\identity_manager\account_info_fetcher.cc:62] OnGetTokenFailure: Connection failed (-106).
+May 18, 2025 12:58:36.35 [9296:4432:0518/125836.350:ERROR:components\signin\internal\identity_manager\account_info_fetcher.cc:62] OnGetTokenFailure: Connection failed (-106).
+May 18, 2025 12:58:36.52 [9296:4432:0518/125836.522:ERROR:components\signin\internal\identity_manager\account_info_fetcher.cc:62] OnGetTokenFailure: Connection failed (-106).
+May 18, 2025 12:58:36.75 [9296:4432:0518/125836.741:ERROR:components\signin\internal\identity_manager\account_info_fetcher.cc:62] OnGetTokenFailure: Connection failed (-106).
+May 18, 2025 12:59:13.95 [9296:12252:0518/125913.951:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
+May 18, 2025 12:59:25.56 [9296:12252:0518/125925.568:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
+May 18, 2025 13:00:58.01 [9296:12252:0518/130058.017:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
+May 18, 2025 13:00:58.48 [9296:12252:0518/130058.488:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
+May 18, 2025 13:04:17.86 [9296:12252:0518/130410.177:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
+
+Jun 05, 2025 24:17:48.08 NEW SESSION
+Jun 05, 2025 24:17:50.58 [7952:3008:0605/001747.933:ERROR:chrome\browser\policy\cloud\fm_registration_token_uploader.cc:179] Client is missing for kUser scope
+Jun 05, 2025 24:17:55.04 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+Jun 05, 2025 24:17:55.04 I0000 00:00:1749062875.041040     252 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+Jun 05, 2025 24:17:59.58 [7952:7596:0605/001759.583:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Jun 05, 2025 24:17:59.65 [7952:3008:0605/001759.655:ERROR:components\signin\internal\identity_manager\account_info_fetcher.cc:62] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+Jun 05, 2025 24:18:07.08 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 05, 2025 24:18:07.21 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jun 05, 2025 24:18:28.47 [7952:7596:0605/001828.470:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Jun 05, 2025 24:19:14.65 [7952:7596:0605/001914.658:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Jun 05, 2025 24:20:34.33 [7952:3008:0605/002034.338:ERROR:services\on_device_model\public\cpp\service_client.cc:36] Unexpected on_device_model service disconnect: The device's GPU is not supported.
+Jun 05, 2025 24:20:42.88 [7952:7596:0605/002042.884:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Jun 05, 2025 24:24:11.38 [7952:7596:0605/002411.384:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Jun 05, 2025 24:29:38.64 [7952:7596:0605/002938.640:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Jun 05, 2025 24:30:57.34 [7952:7596:0605/003057.343:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+Jun 05, 2025 03:31:18.87 [7952:3008:0605/033118.566:ERROR:components\device_event_log\device_event_log_impl.cc:202] [03:31:17.964] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 05, 2025 03:31:22.05 [7952:7596:0605/033122.058:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+Jun 05, 2025 20:13:28.83 [7952:7596:0605/201328.831:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+Jun 05, 2025 20:13:43.83 [7952:7596:0605/201339.027:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Jun 05, 2025 20:14:01.07 [7952:7596:0605/201401.073:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Jun 05, 2025 20:14:53.23 [7952:7596:0605/201453.118:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Jun 05, 2025 20:16:38.57 [7952:7596:0605/201638.573:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Jun 05, 2025 20:20:09.28 [7952:7596:0605/202009.286:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Jun 05, 2025 20:26:27.31 [7952:7596:0605/202627.317:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT

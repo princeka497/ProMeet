@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+
+
+body{
+	/* background-color:cyan; */
+	display:flex;
+	flex-direction:column;
+	min-height:100vh;
+	
+}
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+	font-family: ital;
+}
+
+.main-body{
+	 flex:1; 
+ 	flex-grow:1; flex-shrink:1; flex-basis:0; 
+}
